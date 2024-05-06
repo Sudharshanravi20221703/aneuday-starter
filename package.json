@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "sass": "^1.69.2",
-    "vite": "^4.4.5"
+    "vite": "^4.4.11"
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.26",

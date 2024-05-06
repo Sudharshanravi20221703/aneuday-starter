@@ -10,7 +10,7 @@
   }
 
   &__title {
-    color: var(--color-text--light);
+    color: var(--color-text--dark);
 
     span {
       color: var(--color-text--dark);
@@ -28,7 +28,7 @@
     align-items: center;
     gap: 16px;
     cursor: pointer;
-    color: var(--color-text--white);
+    color: var(--color-text--black);
     z-index: 2;
 
     &__text {
